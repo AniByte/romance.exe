@@ -4,7 +4,6 @@
 # name of the character.
 
 define p = Character("Protag")
-define n = Character("Narrator")
 
 
 # The game starts here.
@@ -62,6 +61,20 @@ label start:
     
 label stairs:
     
+    "While it may seem like this is my first time running late, it's actually quite the opposite."
+    
+    "There is barely a day when I'm NOT running late."
+    
+    "During those days (ie every day), the combination of the stairs and my seemingly-limitless stamina have always
+     been my best friend."
+    
+    "Today is no different."
+    
+    p "Time for my morning workout!"
+    
+    "*CLANG*"
+    
+    
     "Didn't die. Good job!"
     
     ".:. End"
@@ -78,7 +91,7 @@ label laundry_schute:
     
     "There is no laundry hamper or anything to cushion my fall."
     
-    p "FUUUUUUUUUUUUUUU-"
+    p "...FUUUUUUUUUUUUUUU-"
     
     "*crash*"
     
