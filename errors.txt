@@ -1,9 +1,0 @@
-﻿I'm sorry, but errors were detected in your script. Please correct the
-errors listed below, and try again.
-
-
-File "game/script.rpy", line 153: expected statement.
-    Label magic1:
-                ^
-
-Ren'Py Version: Ren'Py 6.99.14.3135
