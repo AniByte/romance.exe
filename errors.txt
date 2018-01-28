@@ -2,8 +2,8 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 52: Line is followed by a block, despite not being a menu choice. Did you forget a colon at the end of the line?
-    "run down the stairs"
-                         ^
+File "game/script.rpy", line 153: expected statement.
+    Label magic1:
+                ^
 
 Ren'Py Version: Ren'Py 6.99.14.3135
