@@ -64,6 +64,8 @@ label start:
     
 label stairs:
     
+    scene bg stairs
+    
     "While it may seem like this is my first time running late, it's actually quite the opposite."
     
     "There is barely a day when I'm NOT running late."
