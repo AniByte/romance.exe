@@ -206,12 +206,27 @@ label magic1:
     "My absolute least favorite part though, is by far the window on the right side of the room."
     
     "It's already bad enough that I only have morning classes here, rendering me unable to sleep because of the bright outdoors, but many couples frequent the
-     area on the other side of the window for romantic rendesvous."
+     area on the other side of the window for many a romantic rendesvous."
     
     "Let me set something straight: I don't have anything against romance."
     
-    "I do, however, have things against couples that openly show flaunt their happiness in public. Screw them, they're already happy, why do they have to 
-     make us single people feel like losers!??!"
+    "I do, however, have things against couples that openly flaunt their happiness in public."
+    
+    p "Screw them, they're already happy, why do they have to make us single people feel like losers!??!"
+    
+    c "Hey buddy...you okay?"
+    
+    "Everyone in the room stopped and stared at me. Well, everyone aside from Mark, who was still trying adorably 
+     hard to read notes that he copied from the book himself."
+    
+    "I quickly sat back down and buried my head in my arms, too embarrased to even look upwards."
+    
+    c "(in a hushed tone) You wanna get breakfast after this? That'll probably make you feel a little better."
+    
+    p "...yes plz."
+    
+    #c ""    
+    
     
     
     "Didn't die. Good job!"
