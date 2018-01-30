@@ -43,6 +43,8 @@ label start:
     "I guess I should mention that I live on the 6th floor of my building, not really convenient when you, and just about everyone
      else in the dang dorm is running late to their first class."
     
+    scene bg elevator
+    
     "I arrive at the elevator, and I notice that I just missed it."
     
     "Crap. I'll be late if I wait, so screw that. I'll just ..."
