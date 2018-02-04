@@ -122,9 +122,11 @@ label laundry_schute:
 
 label running:
     
+    scene bg sidewalk
+    
     "I'm currently a sophomore computer science major at DKU."
     
-    "Before you ask me what 'DKU' stands for, don't. Nobody I know (including my friends, classmates, and even professors) knows what it stands for. 
+    "Before you ask me what 'DKU' stands for, don't. Nobody I know (including my friends, classmates, and even professors) know what it stands for. 
      Is it weird? You bet. Do I care? Not really."
     
     "All I know is that its CS program, while not very well known, is good enough that I can easily learn what I need to know, and that's all that really
@@ -169,6 +171,8 @@ label running:
     
 
 label magic1:
+    
+    
     
     "As I walk in, I immediately see Clegg, who placed his backpack on the seat next to him, , obviously meant for me."
     
