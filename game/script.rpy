@@ -128,10 +128,10 @@ label running:
 
     "I'm currently a sophomore computer science major at DKU."
 
-    "Before you ask me what 'DKU' stands for, don't. Nobody I know (including my friends, classmates, and even professors) know what it stands for.
+    "Before you ask me what 'DKU' stands for, don't. Nobody I know (including my friends, classmates, and even professors) knows what it stands for.
      Is it weird? You bet. Do I care? Not really."
 
-    "All I know is that its CS program, while not very well known, is good enough that I can easily learn what I need to know, and that's all that really
+    "All I know is that its CS program is top notch, and that I can easily learn what I need to know. That's all that really
      matters to me."
 
     "Being a CS major at DKU is a lot like being a CS major at lots of other universities. While school does matter, what you do outside of school matters
@@ -208,7 +208,7 @@ label magic1:
      the nice, bright outside."
 
     "My issue there though, is that I loved the old rooms. The rooms were dark, making it easy for me to sleep during class. The technology may have been archaic,
-     but lots of experimentation by various professors over the years ensured that they always worked seamlessly. Lastly, I prefer chalkboards over whiteboards."
+     but lots of experimentation went into the setup by various professors over the years ensured that they always worked seamlessly. Lastly, I prefer chalkboards over whiteboards."
 
     "This new room, however, was exactly the opposite. Whiteboards were used, which isn't really a big deal, but the technology malfunctions a lot because many professors
      owned older laptops, leading them to gerry-rig solutions that didn't always result in the strongest connection between their laptop and the projector."
@@ -279,7 +279,7 @@ label breakfast:
 
     p "Charming, Clegg."
 
-    c "*burp* Sorry about that. JVN City? Name after John Von Neumann."
+    c "*burp* Sorry about that. JVN City? Named after John Von Neumann."
 
     p "John von who now?"
 
@@ -301,8 +301,10 @@ label breakfast:
 
     c "Ugh. You're hopeless, I should be the CS Major."
 
-    "He isn't wrong. Clegg knows just as much about CS as I do, despite me having taken loads of college classes on the subject from a
+    "He isn't wrong. Clegg knows just as much about CS as I do, despite me having taken a number of courses on the subject from a
     top rate university."
+
+    c "So, what other classes do you have today? "
 
 
     return
@@ -310,8 +312,17 @@ label breakfast:
 label moody:
     #add stuff about being moody here
 
+    c "Suit yourself"
 
-    "Didn't die. Good job!"
+    "I went home afterwards, and laid down"
+
+    "..."
+
+    "..."
+
+    "..."
+
+    "You died of starvation. Game over!"
 
     ".:. Placeholder Ending"
 
